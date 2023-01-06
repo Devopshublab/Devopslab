@@ -1,1 +1,2 @@
 Merging a branch locally.
+Merging a branch remotely.
